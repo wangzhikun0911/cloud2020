@@ -21,6 +21,9 @@
         <module>cloud.consumer.feign.order80</module>
         <module>cloud-provide-hystrix-payment8001</module>
         <module>cloud-consumer-feign-hystrix-order80</module>
+        <module>cloud-consumer-dashboard-hystrix9001</module>
+        <module>cloud.gateway.gateway9527</module>
+        <module>cloud-config-center3344</module>
     </modules>
 
     <!--统一管理jar包版本-->
@@ -115,9 +118,9 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
-                    <enconding>UTF-8</enconding>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <!--<enconding>UTF-8</enconding>-->
                     <!--<verbose>true</verbose>-->
                     <!--<fork>true</fork>-->
                     <!--<executable>E:\JDK\bin\javac</executable>-->
