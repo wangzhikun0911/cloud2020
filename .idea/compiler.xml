@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-api-commons" />
         <module name="cloud-config-center3344" />
+        <module name="cloud-config-client3355" />
         <module name="cloud-consumer-dashboard-hystrix-order9001" />
         <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-consumer-order80" />
@@ -28,6 +29,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="cloud-api-commons" target="1.8" />
       <module name="cloud-config-center3344" target="1.8" />
+      <module name="cloud-config-client3355" target="1.8" />
       <module name="cloud-consumer-dashboard-hystrix-order9001" target="1.8" />
       <module name="cloud-consumer-dashboard-hystrix9001" target="1.6" />
       <module name="cloud-consumer-feign-hystrix-order80" target="1.8" />
