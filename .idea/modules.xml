@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" filepath="$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" filepath="$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-dashboard-hystrix9001/cloud-consumer-dashboard-hystrix-order9001.iml" filepath="$PROJECT_DIR$/cloud-consumer-dashboard-hystrix9001/cloud-consumer-dashboard-hystrix-order9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" />
