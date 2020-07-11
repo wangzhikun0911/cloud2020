@@ -16,8 +16,14 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-provide-payment8001/cloud-provide-payment8001.iml" filepath="$PROJECT_DIR$/cloud-provide-payment8001/cloud-provide-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provide-payment8002/cloud-provide-payment8002.iml" filepath="$PROJECT_DIR$/cloud-provide-payment8002/cloud-provide-payment8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" filepath="$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8804/cloud-stream-rabbitmq-consumer8804.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8804/cloud-stream-rabbitmq-consumer8804.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.consumer.feign.order80/cloud.consumer.feign.order80.iml" filepath="$PROJECT_DIR$/cloud.consumer.feign.order80/cloud.consumer.feign.order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.gateway.gateway9527/cloud.gateway.gateway9527.iml" filepath="$PROJECT_DIR$/cloud.gateway.gateway9527/cloud.gateway.gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" filepath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" filepath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/colud2020.iml" filepath="$PROJECT_DIR$/colud2020.iml" />
     </modules>
   </component>
