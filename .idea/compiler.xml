@@ -34,6 +34,7 @@
         <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-sentinel-service8401" />
         <module name="iMessageProvider" />
       </profile>
     </annotationProcessing>
@@ -65,6 +66,7 @@
       <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
       <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
       <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-sentinel-service8401" target="1.8" />
       <module name="colud2020" target="1.8" />
       <module name="iMessageProvider" target="1.8" />
     </bytecodeTargetLevel>
