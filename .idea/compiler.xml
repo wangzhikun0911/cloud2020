@@ -33,9 +33,15 @@
         <module name="cloud.stream-rabbitmq-consumer8803" />
         <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="cloudalibaba-consumer-nacos-order84" />
         <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-provider-payment9003" />
+        <module name="cloudalibaba-provider-payment9004" />
         <module name="cloudalibaba-sentinel-service8401" />
         <module name="iMessageProvider" />
+        <module name="seata-account-service2003" />
+        <module name="seata-order-service2001" />
+        <module name="seata-storage-service2002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -44,11 +50,9 @@
       <module name="cloud-config-client3355" target="1.8" />
       <module name="cloud-config-client3366" target="1.8" />
       <module name="cloud-consumer-dashboard-hystrix-order9001" target="1.8" />
-      <module name="cloud-consumer-dashboard-hystrix9001" target="1.8" />
       <module name="cloud-consumer-feign-hystrix-order80" target="1.8" />
       <module name="cloud-consumer-order80" target="1.8" />
       <module name="cloud-consumerconsul-order80" target="1.8" />
-      <module name="cloud-eureka-server" target="1.6" />
       <module name="cloud-eureka-server7001" target="1.8" />
       <module name="cloud-eureka-server7002" target="1.8" />
       <module name="cloud-provide-hystrix-payment8001" target="1.8" />
@@ -56,19 +60,21 @@
       <module name="cloud-provide-payment8002" target="1.8" />
       <module name="cloud-providerconsul-payment8006" target="1.8" />
       <module name="cloud-stream-rabbitmq-consumer8802" target="1.8" />
-      <module name="cloud-stream-rabbitmq-consumer8803" target="1.8" />
       <module name="cloud-stream-rabbitmq-consumer8804" target="1.8" />
       <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
       <module name="cloud.consumer.feign.order80" target="1.8" />
-      <module name="cloud.eureka-server7002" target="1.6" />
       <module name="cloud.gateway.gateway9527" target="1.8" />
-      <module name="cloud.stream-rabbitmq-consumer8803" target="1.8" />
       <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
       <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order84" target="1.8" />
       <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9003" target="1.8" />
+      <module name="cloudalibaba-provider-payment9004" target="1.8" />
       <module name="cloudalibaba-sentinel-service8401" target="1.8" />
       <module name="colud2020" target="1.8" />
-      <module name="iMessageProvider" target="1.8" />
+      <module name="seata-account-service2003" target="1.8" />
+      <module name="seata-order-service2001" target="1.8" />
+      <module name="seata-storage-service2002" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
