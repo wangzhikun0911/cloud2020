@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8804/cloud-stream-rabbitmq-consumer8804.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8804/cloud-stream-rabbitmq-consumer8804.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-test-demo/cloud-test-demo.iml" filepath="$PROJECT_DIR$/cloud-test-demo/cloud-test-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.consumer.feign.order80/cloud.consumer.feign.order80.iml" filepath="$PROJECT_DIR$/cloud.consumer.feign.order80/cloud.consumer.feign.order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.gateway.gateway9527/cloud.gateway.gateway9527.iml" filepath="$PROJECT_DIR$/cloud.gateway.gateway9527/cloud.gateway.gateway9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
